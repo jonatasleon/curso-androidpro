@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula01</string>
+    <string name="hint_edit_mensagem">Digite seu nome</string>
+    <string name="text_btn_acao">Saudação</string>
+</resources>
