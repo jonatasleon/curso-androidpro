@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="button_to_primeira">Abrir Primeira Activity</string>
+    <string name="button_to_segunda">Abrir Segunda Activity</string>
+    <string name="button_to_terceira">Abrir Terceira Activity</string>
+
+    <string name="text_primeira">Primeira Activity</string>
+    <string name="text_segunda">Segunda Activity</string>
+    <string name="text_terceira">Terceira Activity</string>
+
+    <string name="button_enviar">Enviar</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="open_site">Abrir jonatasleon.com</string>
+</resources>
