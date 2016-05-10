@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula06</string>
+
+    <string name="formularios">FORMULÁRIOS</string>
+    <string name="adapters">ADAPTERS</string>
+    <string name="progseekbar">PROGRESSBAR/SEEKBAR</string>
+    <string name="imageview">IMAGEVIEW</string>
+</resources>
