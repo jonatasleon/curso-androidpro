@@ -31,6 +31,24 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(i, 1);
             }
         });
+
+        Button btnProgSeek = (Button) findViewById(R.id.btn_progseek);
+        btnProgSeek.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, ProgSeekbarActivity.class);
+                startActivityForResult(i, 2);
+            }
+        });
+
+        Button btnImageView = (Button) findViewById(R.id.btn_imageview);
+        btnImageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, ImageViewActivity.class);
+                startActivityForResult(i, 3);
+            }
+        });
     }
 
     @Override
